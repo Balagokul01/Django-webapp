@@ -9,7 +9,7 @@ To use this respositry ,clone it in terminal with command
 `git clone https://github.com/Balagokul01/Django-webapp`
 
 
-~To run this create a virtual environment:~
+To run this create a virtual environment:~
 
 `virtualenv test`
 
